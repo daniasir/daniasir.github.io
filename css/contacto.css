@@ -1,0 +1,6 @@
+#formulario { width: 25%; margin: 10 auto; padding: 10 0 10 0; 
+background-color: #554B87; opacity: .9 }
+#formulario form p input:focus, textarea:focus {background-color: gray; border: 2px solid black }
+.texto form  { text-align: center; font-size: 20px}
+option:hover { color: red; background-color: gray; box-shadow: 0 0 10px 100px #000 inset;
+}

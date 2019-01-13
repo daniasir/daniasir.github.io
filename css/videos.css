@@ -1,0 +1,13 @@
+#indice { width: 15%;
+margin-top: 20px;
+background-color: #B6B6B6; border: 2px solid gray; 
+font-family: open sans;
+
+}
+p.texto { font-size: 20px; font-weight: bold}
+#indice ol li {margin: .5em}
+#indice h1 { text-align: center}
+#contenvideos { margin: 0 auto }
+iframe { display: block }
+#contenvideos.texto a {font-weight: bold;
+font-size: 25px; color: lightsteelblue}

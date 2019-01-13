@@ -1,0 +1,29 @@
+#menu {list-style: none;
+font-family: Open Sans; 
+float: left;
+font-weight: bold;
+font-size: 17px;
+padding-top: 0.5em
+}
+#menu li {clear: both;
+}
+#menu li a {float: left;
+padding: 2px;
+text-decoration: none;
+color: #3267F7;
+text-transform: uppercase;
+}
+#menu li:hover a,
+#menu li a:hover {background: lightslategray;
+color: black;
+}
+#menu ul {display: none;}
+#menu li:hover ul {display: block;}
+#menu ul {list-style: none;
+float: left;
+padding: 4px 8px;
+}
+#menu ul li {float: left;   
+color: #999;
+margin-top: 5px;
+}
